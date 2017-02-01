@@ -138,7 +138,6 @@ We assume you already forked this repo and create a service for it
 Your screen should look like:
 
 <p align="center">
-  <b>Click Build</b><br>
   <img src="./images/aws-ecr-envs.png" width="500">
 </p>
 
